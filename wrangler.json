@@ -1,0 +1,5 @@
+{
+  "name": "botopalfilm",
+  "compatibility_date": "2025-05-25",
+  "main": "bot.js"  // مسیر فایل اصلی Worker خود را اینجا بگذارید
+}
